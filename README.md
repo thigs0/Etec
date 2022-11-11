@@ -33,18 +33,30 @@ _Matérias_
 
 ## **Segundo ano**
 
+Neste, começa a focar mais na parte experimental. varias matérias serão de produção de substâncias, fiz biocombustível, tinta com metais, colágeno e outros.
+além de produção, há os métodos de análise para isolar um elemento de um produto. além da quantitativa, inicia experimentos de qualitativa, como avaliar os elementos com base na cor e consistência 
+
+_Matérias_
+
 - **Síntese e identificação dos compostos orgânicos 2**
     Em sequência da Sico 1, o objetivo é estudar compostos de base carbono. Porém, aprofunda em cadeias e suas reações. Como [isomeria](https://pt.wikipedia.org/wiki/Isomerismo), [Regra de Markovnikov](https://brasilescola.uol.com.br/quimica/regra-markovnikov.htm) e outros. Em conjunto também é dado o conteúdo de polímeros
     Esta parte é bem específica, porém ajuda bastante para entender os processos bioquímicos e industriais mais complexos
     
 - **Química ambiental**
+ 
 
 - **Análise de química qualitativa**
-
+ Nesta matéria o objetivo é avaliar as substâncias. Por exemplo: dado um composto amarelo e com consistência de gelatina, avaliar os elementos dele.
+ Ressalto que é quase totalmente experimental, então você aprende vendo as coias bonitas
+ 
 - **análise de química de quantitativa**
+ Para as outras matéria é necessário que você saiba avaliar a pureza de substâncias; dado que trabalhar com metais é diferente de trabalhar com líquidos.
+ Então o intuito desta matéria é produzir relatórios, e cada relatório será uma técnica diferente para avaliar as propriedades das substâncias
 
+ 
 - **Operações unitárias nos processos industriais**
-
+ Aqui o objetivo é instruir na produção industrial. Sem essa matéria você não assina relatórios técnicos. A ideia é construir projetos como produção de colágeno com a menor perca de qualidade, em quande quantidade e com aparência bonita para comprarem (Fizemos este projeto e foi incrível)
+ 
 ## **terceiro ano**
 
 - **Tcc** 
